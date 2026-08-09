@@ -1,3 +1,5 @@
+This is a work-in-progress portfolio repo — dissertation completing October 2026, results will be updated on completion
+
 # Clinical Query Rate Predictor
 
 **Predicting data query rates in clinical trials using machine learning** — identifying high-risk sites and visits before queries accumulate, enabling proactive data quality management.
@@ -36,18 +38,6 @@ Traditionally, query management is **reactive** — teams respond after queries 
 4. **ICH E6(R3) & 21 CFR Part 11 framing**
    - Risk-based monitoring alignment
    - Audit trail considerations for model outputs
-
----
-
-## Results Summary
-
-| Model | AUC-ROC | Precision | Recall |
-|-------|---------|-----------|--------|
-| Logistic Regression | 0.71 | 0.68 | 0.65 |
-| Random Forest | 0.81 | 0.77 | 0.74 |
-| XGBoost | **0.86** | **0.82** | **0.79** |
-
-*Note: Results on synthetic dataset — see `/data/README.md` for data generation methodology*
 
 ---
 

@@ -61,10 +61,5 @@ clinical-query-rate-predictor/
 │   ├── Thesis_Dashboard_1.twbx     # Clinical Trial Data Quality Risk Scoring Dashboard
 │   └── Thesis_Dashboard_2.twbx     # Model Validity and Fairness Check Dashboard
 │
-├── src/
-│   ├── features.py                 # Automated feature engineering pipeline functions
-│   ├── models.py                   # Model training, hyperparameter tuning & evaluation wrappers
-│   └── explainer.py                # SHAP wrapper functions for real-time inference explanation
-│
 ├── requirements.txt
 └── README.md

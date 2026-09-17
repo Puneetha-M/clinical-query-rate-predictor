@@ -35,7 +35,7 @@ This research establishes a validated proof-of-concept demonstrating that clinic
 * **Machine Learning & Analytics:** Scikit-Learn, XGBoost, SHAP (TreeExplainer)
 * **Data Manipulation & Processing:** Pandas, NumPy
 * **Visualisation:** Matplotlib, Seaborn, Tableau (Dashboards)
-* **Environment:** Jupyter Notebook / Google Colab
+* **Environment:** Jupyter Notebook 
 
 ---
 
@@ -58,8 +58,8 @@ clinical-query-rate-predictor/
 │   └── 06_survey_analysis.ipynb    # Primary survey (n=20) descriptive stats, Likert, & Cronbach's Alpha
 │
 ├── dashboards/
-│   ├── Thesis_Dashboard_1.twbx     # Clinical Trial Data Quality Risk Scoring Dashboard
-│   └── Thesis_Dashboard_2.twbx     # Model Validity and Fairness Check Dashboard
+│   ├── Thesis.twbx
 │
+├── models.py
 ├── requirements.txt
 └── README.md

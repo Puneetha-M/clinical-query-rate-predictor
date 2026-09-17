@@ -1,0 +1,16 @@
+Feature,Mean_Abs_SHAP_Global,Mean_Abs_SHAP_HIGH
+Number of Sites,0.21813156,0.2988025
+Enrollment (participants),0.20839465,0.35845065
+CRF Page Count,0.15356608,0.2070656
+Edit Check Density / Domain,0.13922043,0.20677769
+Trial Duration (days),0.11181009,0.1683848
+Trial Phase: Phase 2,0.096244976,0.15120946
+Allocation: Randomized,0.093509644,0.15032493
+Study Status: Completed,0.08269324,0.1617432
+Blinding Level (0-4),0.050978668,0.08431095
+Allocation: Non-Randomized,0.042216107,0.061089627
+Trial Phase: Phase 3,0.04054295,0.050823182
+Trial Phase: Phase 4,0.036437687,0.05201366
+Intervention Type: Drug,0.033850305,0.038746096
+Trial Phase: Not Reported,0.029421728,0.043982554
+Sdtm Domain Count,0.025501627,0.0312243

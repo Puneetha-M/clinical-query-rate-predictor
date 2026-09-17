@@ -1,0 +1,16 @@
+Feature,Mean_Abs_SHAP
+Number of Sites,0.2988025
+Enrollment,0.35845065
+crf_page_count,0.2070656
+edit_check_density_per_domain,0.20677769
+Trial Duration (days),0.1683848
+Phases_PHASE2,0.15120946
+Allocation_RANDOMIZED,0.15032493
+Study Status_COMPLETED,0.1617432
+blinding_level,0.08431095
+Allocation_NON_RANDOMIZED,0.061089627
+Phases_PHASE3,0.050823182
+Phases_PHASE4,0.05201366
+Intervention Type_DRUG,0.038746096
+Phases_NOT_REPORTED,0.043982554
+sdtm_domain_count,0.0312243
